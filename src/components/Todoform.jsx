@@ -5,7 +5,7 @@ const Todoform = () => {
   return (
     <form className='form'>
     <input
-        placeholder="Enter new Todo...."
+        placeholder="Enter new Todo"
         className="input"
     />
       
